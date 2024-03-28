@@ -608,6 +608,10 @@ progress {
 .blockquote-footer::before {
   content: "— "
 }
+.img{
+height: 400px;
+width: 300px;
+}
 
 .img-fluid {
   max-width: 100%;
@@ -17386,6 +17390,17 @@ p.white {
 
 .fa-tshirt:before {
   content: "\f553";
+}
+.bx1-whatsapp::before{
+  content: "\e968";
+}
+.bx {
+  font-family: 'boxicons' !important;
+  font-weight: normal;
+  font-style: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-transform: none;
 }
 
 .fa-tty:before {
